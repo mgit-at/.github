@@ -1,0 +1,14 @@
+{
+    "name": "mgIT Organization CI Workflow",
+    "description": "mgIT Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$",
+        "Makefile"
+    ]
+}
