@@ -3,7 +3,8 @@
     "description": "mgIT Organization CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Go"
+        "Go",
+        "Shell"
     ],
     "filePatterns": [
         "package.json$",
